@@ -1,0 +1,201 @@
+{
+  "entries": [
+    {
+      "id": "e8",
+      "date": "2024-11-10",
+      "day": "Sunday",
+      "text": "I am currently feeling very content . I had a productive day and I am now winding down for the evening . I am pleased since I did my self care routine , which made me feel calm and relaxed . I am satisfied and happy .",
+      "subtask2a": {
+        "valence": 1.0,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.726,
+          "arousal": -0.641
+        },
+        "deberta": {
+          "valence": 0.04,
+          "arousal": -0.297
+        },
+        "ensemble": {
+          "valence": 0.65,
+          "arousal": -0.604
+        }
+      }
+    },
+    {
+      "id": "e7",
+      "date": "2024-11-10",
+      "day": "Sunday",
+      "text": "I am currently feeling somewhat energetic and active . I am feeling productive . I feel accomplished since I finished all my housework and now I am excited to reward myself with some self care . I am also feeling a little hungry .",
+      "subtask2a": {
+        "valence": 0.5,
+        "arousal": 1.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.3,
+          "arousal": 0.872
+        },
+        "deberta": {
+          "valence": 0.105,
+          "arousal": -0.3
+        },
+        "ensemble": {
+          "valence": 0.279,
+          "arousal": 0.743
+        }
+      }
+    },
+    {
+      "id": "e6",
+      "date": "2024-11-10",
+      "day": "Sunday",
+      "text": "I woke up feeling better today and currently I am feeling very productive since I am up and walking around . I feel accomplished since I am getting my house chores done and active since I had an early start to my day .",
+      "subtask2a": {
+        "valence": 0.0,
+        "arousal": 1.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.469,
+          "arousal": 0.46
+        },
+        "deberta": {
+          "valence": 0.106,
+          "arousal": -0.32
+        },
+        "ensemble": {
+          "valence": 0.429,
+          "arousal": 0.374
+        }
+      }
+    },
+    {
+      "id": "e5",
+      "date": "2024-11-08",
+      "day": "Friday",
+      "text": "I am currently feeling pretty tired , but I woke up very early today so I believe that is normal . Besides being tired , I have a little bit of a headache and stomach pain , so I am a bit stressed about that .",
+      "subtask2a": {
+        "valence": -0.5,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": -0.629,
+          "arousal": -0.833
+        },
+        "deberta": {
+          "valence": 0.059,
+          "arousal": -0.348
+        },
+        "ensemble": {
+          "valence": -0.553,
+          "arousal": -0.78
+        }
+      }
+    },
+    {
+      "id": "e4",
+      "date": "2024-11-07",
+      "day": "Thursday",
+      "text": "I am currently feeling very happy and excited since I am seeing my friend I haven’t seen for a while now . I am feeling content and enjoying my evening , as well as looking forward to tomorrow and the weekend .",
+      "subtask2a": {
+        "valence": 1.0,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.735,
+          "arousal": -0.104
+        },
+        "deberta": {
+          "valence": 0.135,
+          "arousal": -0.296
+        },
+        "ensemble": {
+          "valence": 0.669,
+          "arousal": -0.125
+        }
+      }
+    },
+    {
+      "id": "e3",
+      "date": "2024-11-07",
+      "day": "Thursday",
+      "text": "I am feeling mostly content currently and a little stressed . A couple of new opportunities came today which is exciting but stressful at the same time since it is all at once . I am pleased though to be receiving them .",
+      "subtask2a": {
+        "valence": 1.0,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.499,
+          "arousal": -0.389
+        },
+        "deberta": {
+          "valence": 0.028,
+          "arousal": -0.446
+        },
+        "ensemble": {
+          "valence": 0.447,
+          "arousal": -0.396
+        }
+      }
+    },
+    {
+      "id": "e2",
+      "date": "2024-11-06",
+      "day": "Wednesday",
+      "text": "I do not feel overly happy or overly sad currently . I would describe myself as neutral and calm . I have moderate energy and am currently content with how my day is going . I have my phone call soon , but I am not really stressed anymore .",
+      "subtask2a": {
+        "valence": 0.0,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.396,
+          "arousal": -0.083
+        },
+        "deberta": {
+          "valence": 0.059,
+          "arousal": -0.264
+        },
+        "ensemble": {
+          "valence": 0.359,
+          "arousal": -0.103
+        }
+      }
+    },
+    {
+      "id": "e1",
+      "date": "2024-11-06",
+      "day": "Wednesday",
+      "text": "I am currently tired and feel as though I do not want to do anything . I feel sluggish and unmotivated to go about the rest of my day . I am also feeling anxious since I have an important call later on in the day .",
+      "subtask2a": {
+        "valence": -1.0,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": -0.773,
+          "arousal": -0.803
+        },
+        "deberta": {
+          "valence": 0.073,
+          "arousal": -0.382
+        },
+        "ensemble": {
+          "valence": -0.68,
+          "arousal": -0.757
+        }
+      }
+    }
+  ],
+  "forecast_2a": {
+    "valence": -0.02,
+    "arousal": 0.936,
+    "cold_start": false
+  }
+}

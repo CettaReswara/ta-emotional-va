@@ -1,0 +1,254 @@
+[
+  {
+    "id": "new12",
+    "date": "2025-06-24",
+    "day": "Tuesday",
+    "text": "I am currently feeling somewhat energetic and active .",
+    "subtask1": {
+      "ensemble": {
+        "valence": 0.33,
+        "arousal": 0.71
+      }
+    }
+  },
+  {
+    "id": "new11",
+    "date": "2025-06-24",
+    "day": "Tuesday",
+    "text": "I'm so happy to present my thesis today",
+    "subtask1": {
+      "ensemble": {
+        "valence": 0.59,
+        "arousal": 0.18
+      },
+      "roberta": {
+        "valence": 0.64,
+        "arousal": 0.24
+      },
+      "deberta": {
+        "valence": 0.19,
+        "arousal": -0.26
+      }
+    }
+  },
+  {
+    "id": "new10",
+    "date": "2025-06-24",
+    "day": "Tuesday",
+    "text": "SOO NERVOUS!!!! PREPARING THESIS DEFENSE HUHUHU",
+    "subtask1": {
+      "ensemble": {
+        "valence": -0.06,
+        "arousal": 0.38
+      },
+      "roberta": {
+        "valence": -0.07,
+        "arousal": 0.49
+      },
+      "deberta": {
+        "valence": 0.09,
+        "arousal": -0.5
+      }
+    }
+  },
+  {
+    "id": "new9",
+    "date": "2025-06-24",
+    "day": "Tuesday",
+    "text": "I'm so happy to prepare my thesis defense, but I'm so nervous at the same time",
+    "subtask1": {
+      "ensemble": {
+        "valence": 0.32,
+        "arousal": 0.35
+      },
+      "roberta": {
+        "valence": 0.35,
+        "arousal": 0.44
+      },
+      "deberta": {
+        "valence": 0.09,
+        "arousal": -0.42
+      }
+    }
+  },
+  {
+    "id": "new8",
+    "date": "2025-06-24",
+    "day": "Tuesday",
+    "text": "I got too lazy, I think there are lot of things to do...",
+    "subtask1": {
+      "ensemble": {
+        "valence": -0.24,
+        "arousal": -0.66
+      },
+      "roberta": {
+        "valence": -0.27,
+        "arousal": -0.68
+      },
+      "deberta": {
+        "valence": -0.02,
+        "arousal": -0.49
+      }
+    }
+  },
+  {
+    "id": "new7",
+    "date": "2025-06-24",
+    "day": "Tuesday",
+    "text": "I'm happy but feel so tired at the same time...",
+    "subtask1": {
+      "ensemble": {
+        "valence": 0.26,
+        "arousal": -0.03
+      },
+      "deberta": {
+        "valence": 0.09,
+        "arousal": -0.42
+      },
+      "roberta": {
+        "valence": 0.29,
+        "arousal": 0.02
+      }
+    }
+  },
+  {
+    "id": "e1",
+    "date": "2025-06-23",
+    "day": "Monday",
+    "text": "Deadlines piling up, hard to focus all day. I want everything done fast but my body is exhausted.",
+    "subtask1": {
+      "ensemble": {
+        "valence": -0.72,
+        "arousal": 0.49
+      },
+      "deberta": {
+        "valence": -0.72,
+        "arousal": 0.49
+      },
+      "roberta": {
+        "valence": -0.72,
+        "arousal": 0.49
+      }
+    }
+  },
+  {
+    "id": "e2",
+    "date": "2025-06-22",
+    "day": "Sunday",
+    "text": "Morning walk then read a book, so peaceful.",
+    "subtask1": {
+      "ensemble": {
+        "valence": 0.15,
+        "arousal": 0.16
+      },
+      "deberta": {
+        "valence": 0.15,
+        "arousal": 0.16
+      },
+      "roberta": {
+        "valence": 0.15,
+        "arousal": 0.16
+      }
+    }
+  },
+  {
+    "id": "e3",
+    "date": "2025-06-21",
+    "day": "Saturday",
+    "text": "Met an old friend, fun and lively!",
+    "subtask1": {
+      "ensemble": {
+        "valence": 0.24,
+        "arousal": 0.46
+      },
+      "deberta": {
+        "valence": 0.24,
+        "arousal": 0.46
+      },
+      "roberta": {
+        "valence": 0.24,
+        "arousal": 0.46
+      }
+    }
+  },
+  {
+    "id": "e4",
+    "date": "2025-06-20",
+    "day": "Friday",
+    "text": "Tired and a bit lonely, I just want to rest.",
+    "subtask1": {
+      "ensemble": {
+        "valence": -0.19,
+        "arousal": 0.39
+      },
+      "deberta": {
+        "valence": -0.19,
+        "arousal": 0.39
+      },
+      "roberta": {
+        "valence": -0.19,
+        "arousal": 0.39
+      }
+    }
+  },
+  {
+    "id": "e5",
+    "date": "2025-06-19",
+    "day": "Thursday",
+    "text": "A flat day, nothing special.",
+    "subtask1": {
+      "ensemble": {
+        "valence": 0.87,
+        "arousal": -0.91
+      },
+      "deberta": {
+        "valence": 0.87,
+        "arousal": -0.91
+      },
+      "roberta": {
+        "valence": 0.87,
+        "arousal": -0.91
+      }
+    }
+  },
+  {
+    "id": "e6",
+    "date": "2025-06-18",
+    "day": "Wednesday",
+    "text": "Pretty productive, relieved to finish my tasks.",
+    "subtask1": {
+      "ensemble": {
+        "valence": 0.98,
+        "arousal": 0.18
+      },
+      "deberta": {
+        "valence": 0.98,
+        "arousal": 0.18
+      },
+      "roberta": {
+        "valence": 0.98,
+        "arousal": 0.18
+      }
+    }
+  },
+  {
+    "id": "e7",
+    "date": "2025-06-17",
+    "day": "Tuesday",
+    "text": "Nervous waiting for the announcement, couldn't sit still.",
+    "subtask1": {
+      "ensemble": {
+        "valence": 0.13,
+        "arousal": 0.95
+      },
+      "deberta": {
+        "valence": 0.13,
+        "arousal": 0.95
+      },
+      "roberta": {
+        "valence": 0.13,
+        "arousal": 0.95
+      }
+    }
+  }
+]

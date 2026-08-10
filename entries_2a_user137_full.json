@@ -1,0 +1,177 @@
+{
+  "entries": [
+    {
+      "id": "e7",
+      "date": "2024-11-11",
+      "day": "Monday",
+      "text": "Feeling calm and content but a little bit bored . Things are quiet and relaxed . Feeling a little bit stir crazy and wondering what I can do to stay occupied . Thinking about heading to the gym later and listening to some music .",
+      "subtask2a": {
+        "valence": 0.5,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.651,
+          "arousal": -0.695
+        },
+        "deberta": {
+          "valence": 0.044,
+          "arousal": -0.284
+        },
+        "ensemble": {
+          "valence": 0.584,
+          "arousal": -0.65
+        }
+      }
+    },
+    {
+      "id": "e6",
+      "date": "2024-11-10",
+      "day": "Sunday",
+      "text": "I feel relaxed and hopeful , peaceful and excited for the future . I feel connected to life and the world despite imperfections in the background . I feel surrounded by people I love and care about . It feels like a great weekend .",
+      "subtask2a": {
+        "valence": 1.0,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.707,
+          "arousal": -0.247
+        },
+        "deberta": {
+          "valence": 0.163,
+          "arousal": -0.312
+        },
+        "ensemble": {
+          "valence": 0.647,
+          "arousal": -0.254
+        }
+      }
+    },
+    {
+      "id": "e5",
+      "date": "2024-11-10",
+      "day": "Sunday",
+      "text": "Feeling energized and happy , calm and content . Everything feels right in the world in this moment . I’m full of joy and I’m feeling excited to spend the rest of the day with people I love and care about .",
+      "subtask2a": {
+        "valence": 1.0,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.787,
+          "arousal": 0.037
+        },
+        "deberta": {
+          "valence": 0.107,
+          "arousal": -0.292
+        },
+        "ensemble": {
+          "valence": 0.713,
+          "arousal": 0.001
+        }
+      }
+    },
+    {
+      "id": "e4",
+      "date": "2024-11-09",
+      "day": "Saturday",
+      "text": "I’m feeling calm , content and pleased with life . It’s a relaxing weekend and there’s nothing of note to be concerned about . It’s a slow Saturday without any stress or work to fret over . I’m looking forward to a nice quiet evening as well .",
+      "subtask2a": {
+        "valence": 1.0,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.73,
+          "arousal": -0.638
+        },
+        "deberta": {
+          "valence": 0.135,
+          "arousal": -0.231
+        },
+        "ensemble": {
+          "valence": 0.665,
+          "arousal": -0.593
+        }
+      }
+    },
+    {
+      "id": "e3",
+      "date": "2024-11-08",
+      "day": "Friday",
+      "text": "I am feeling tired but calm and content . I’m feeling unconcerned about what the future holds and trying to enjoy the here and now . I’m also thinking about the day ahead and how I can make the best use of it .",
+      "subtask2a": {
+        "valence": 0.5,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.514,
+          "arousal": -0.69
+        },
+        "deberta": {
+          "valence": 0.132,
+          "arousal": -0.217
+        },
+        "ensemble": {
+          "valence": 0.472,
+          "arousal": -0.638
+        }
+      }
+    },
+    {
+      "id": "e2",
+      "date": "2024-11-07",
+      "day": "Thursday",
+      "text": "Feeling relaxed and maybe a little bit bored . Mood is relatively neutral and pleased . Feeling stress free and like I should seek out some excitement or an activity to keep busy with . That’s all I’ve got , I’m not sure what else I’m expected to say to reach the character limit .",
+      "subtask2a": {
+        "valence": 0.5,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.505,
+          "arousal": -0.176
+        },
+        "deberta": {
+          "valence": 0.12,
+          "arousal": -0.275
+        },
+        "ensemble": {
+          "valence": 0.463,
+          "arousal": -0.187
+        }
+      }
+    },
+    {
+      "id": "e1",
+      "date": "2024-11-07",
+      "day": "Thursday",
+      "text": "Feeling calm and content . Feeling hopeful for the future and proud of my baby daughter and her growth over the past few weeks . Feeling unconcerned with the rest of the world as I enjoy a free morning with my family .",
+      "subtask2a": {
+        "valence": 1.0,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.701,
+          "arousal": -0.581
+        },
+        "deberta": {
+          "valence": 0.065,
+          "arousal": -0.311
+        },
+        "ensemble": {
+          "valence": 0.631,
+          "arousal": -0.551
+        }
+      }
+    }
+  ],
+  "forecast_2a": {
+    "valence": -0.023,
+    "arousal": 0.939,
+    "cold_start": false
+  }
+}

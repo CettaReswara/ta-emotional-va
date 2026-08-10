@@ -1,0 +1,261 @@
+{
+  "entries": [
+    {
+      "id": "new10",
+      "date": "2025-06-24",
+      "day": "Tuesday",
+      "text": "I am currently feeling somewhat energetic and active",
+      "subtask1": {
+        "ensemble": {
+          "valence": 0.27,
+          "arousal": 0.77
+        }
+      }
+    },
+    {
+      "id": "e10",
+      "date": "2024-11-15",
+      "day": "Friday",
+      "text": "I Slept very good last night . Going on a little getaway with my family this weekend so I’m excited about that . Watch football and hockey last night and my team won finishing up one of the seasons of my show and I’m happy about that .",
+      "subtask2a": {
+        "valence": 0.5,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.781,
+          "arousal": -0.102
+        },
+        "deberta": {
+          "valence": 0.015,
+          "arousal": -0.338
+        },
+        "ensemble": {
+          "valence": 0.697,
+          "arousal": -0.128
+        }
+      }
+    },
+    {
+      "id": "e9",
+      "date": "2024-11-14",
+      "day": "Thursday",
+      "text": "Kind of tired . Might take a nap . Good football game on tonight . Excited to watch that . Then hockey is on so happy to watch that . Caught up on work this morning from this week of school that I missed . Felt happy I started doing stuff again , related to school .",
+      "subtask2a": {
+        "valence": -0.5,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": -0.18,
+          "arousal": -0.612
+        },
+        "deberta": {
+          "valence": 0.051,
+          "arousal": -0.308
+        },
+        "ensemble": {
+          "valence": -0.154,
+          "arousal": -0.579
+        }
+      }
+    },
+    {
+      "id": "e8",
+      "date": "2024-11-14",
+      "day": "Thursday",
+      "text": "Feeling not as sick anymore , the medicine is really working . I am doing some work that I missed this week . I am going away this weekend on a little getaway . Excited and happy about that . I like my new TV show . I’m watching .",
+      "subtask2a": {
+        "valence": 0.5,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.395,
+          "arousal": 0.092
+        },
+        "deberta": {
+          "valence": 0.107,
+          "arousal": -0.337
+        },
+        "ensemble": {
+          "valence": 0.364,
+          "arousal": 0.045
+        }
+      }
+    },
+    {
+      "id": "e7",
+      "date": "2024-11-12",
+      "day": "Tuesday",
+      "text": "I’m feeling pretty good . Not happy or sad . Medicine kicked in and I feel better . Will probably feel sick again once the medicine wears off . Not going back to school today I don’t know about tomorrow yet . I’ve just been watching TV in my bed all day .",
+      "subtask2a": {
+        "valence": 0.0,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.279,
+          "arousal": -0.104
+        },
+        "deberta": {
+          "valence": 0.042,
+          "arousal": -0.408
+        },
+        "ensemble": {
+          "valence": 0.253,
+          "arousal": -0.137
+        }
+      }
+    },
+    {
+      "id": "e6",
+      "date": "2024-11-12",
+      "day": "Tuesday",
+      "text": "Feeling not happy but not sad . I slept a lot better last night . still have fever and still feel sick . going back to school today I don’t know about tomorrow yet . Just been watching TV laying on bed past few days .",
+      "subtask2a": {
+        "valence": 0.0,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.18,
+          "arousal": -0.098
+        },
+        "deberta": {
+          "valence": 0.011,
+          "arousal": -0.448
+        },
+        "ensemble": {
+          "valence": 0.161,
+          "arousal": -0.137
+        }
+      }
+    },
+    {
+      "id": "e5",
+      "date": "2024-11-11",
+      "day": "Monday",
+      "text": "The medicine is wearing off . I’m starting to feel sick again . I’m still happy and excited to go back to school tomorrow . I’m going to take the medicine again . Hopefully I sleep better tonight because last night I didn’t sleep too good I took another nap before dinner now I’m just watching a new TV show before Football starts . Feeling happy .",
+      "subtask2a": {
+        "valence": 0.0,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.417,
+          "arousal": 0.043
+        },
+        "deberta": {
+          "valence": 0.029,
+          "arousal": -0.371
+        },
+        "ensemble": {
+          "valence": 0.375,
+          "arousal": -0.002
+        }
+      }
+    },
+    {
+      "id": "e4",
+      "date": "2024-11-11",
+      "day": "Monday",
+      "text": "I’m feeling a little happier . My medicine is working and I am feeling better . I took a nap so I’m not as tired . I didn’t sleep as good last night . I just cleaned my car so I’m happy that it’s clean . I am going back to school tomorrow and I’m excited about that .",
+      "subtask2a": {
+        "valence": 0.5,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.317,
+          "arousal": 0.022
+        },
+        "deberta": {
+          "valence": 0.136,
+          "arousal": -0.306
+        },
+        "ensemble": {
+          "valence": 0.297,
+          "arousal": -0.014
+        }
+      }
+    },
+    {
+      "id": "e3",
+      "date": "2024-11-10",
+      "day": "Sunday",
+      "text": "I am feeling better . Originally was sick but am feeling better . Not as hot anymore . Have school tomorrow but I am not going . Don’t have practice but have lift but missing that too . Feel happier because I am feeling better .",
+      "subtask2a": {
+        "valence": 0.0,
+        "arousal": 0.5
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": 0.246,
+          "arousal": -0.132
+        },
+        "deberta": {
+          "valence": 0.079,
+          "arousal": -0.391
+        },
+        "ensemble": {
+          "valence": 0.228,
+          "arousal": -0.16
+        }
+      }
+    },
+    {
+      "id": "e2",
+      "date": "2024-11-09",
+      "day": "Saturday",
+      "text": "I am currently sick . I think I have the flu . I have chills and I’m sweating . I stayed in bed all day and I don’t feel good . I didn’t eat a lot today . I only had peanut butter and jelly and some oatmeal",
+      "subtask2a": {
+        "valence": -1.0,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": -0.658,
+          "arousal": -0.482
+        },
+        "deberta": {
+          "valence": 0.116,
+          "arousal": -0.355
+        },
+        "ensemble": {
+          "valence": -0.573,
+          "arousal": -0.468
+        }
+      }
+    },
+    {
+      "id": "e1",
+      "date": "2024-11-09",
+      "day": "Saturday",
+      "text": "I’m feeling tired . Didn’t sleep good last night . Hungry too because I didn’t have breakfast yet . But I’m excited to watch college football today . Might take a nap soon . Going to birthday party later so excited for that .",
+      "subtask2a": {
+        "valence": -0.5,
+        "arousal": 0.0
+      },
+      "subtask1": {
+        "roberta": {
+          "valence": -0.32,
+          "arousal": -0.613
+        },
+        "deberta": {
+          "valence": 0.043,
+          "arousal": -0.391
+        },
+        "ensemble": {
+          "valence": -0.28,
+          "arousal": -0.588
+        }
+      }
+    }
+  ],
+  "forecast_2a": {
+    "valence": -0.045,
+    "arousal": 0.939,
+    "cold_start": false
+  }
+}
