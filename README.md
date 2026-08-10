@@ -1,4 +1,4 @@
-# ta-emotional-va
+# TA 13521133
 Tugas akhir Cetta Reswara Parahita (13521133). Laman penjelasan singkat dapat dilihat melalui https://digilib.itb.ac.id/gdl/view_data/pengembangan-model-prediksi-intensitas-dan-perubahan-valence-arousal-dari-dataset-teks-ecological-momentary-assessment-13521133.
 
 ## Struktur Repo
@@ -87,4 +87,5 @@ Aplikasi ini merupakan demo interaktif dari pipeline yang dikembangkan, memungki
 ## Referensi
 
 Task: SemEval 2026 Task 2 (https://semeval2026task2.github.io/SemEval-2026-Task2/overview; https://aclanthology.org/2026.semeval-1.451/)
+
 Penjelasan sistem: https://aclanthology.org/2026.semeval-1.348/
